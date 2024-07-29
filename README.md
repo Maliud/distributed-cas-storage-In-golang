@@ -1,8 +1,23 @@
  
-# Content Addressable Storage || Gerçek Zamanlı-Binance-Kripto Göstergesi
+# Content Addressable Storage || İçerik Adreslenebilir Depolama
 
-<img width="1440" alt="Ekran Resmi 2024-07-29 17 42 32" src="https://github.com/user-attachments/assets/90330c65-fb00-459b-8ee0-627f56df3e3c">
+// EN
 
+# Content Addressable Storage
+# This is a custom distributed CAS memory implementation in golang.
+
+# For establishing connection and facilitating communication between peers a custom library p2p library has been implemented.
+
+# A file once sent n the network will be replicated to all peers.
+
+// TR
+
+# İçerik Adreslenebilir Depolama
+# Bu, golang'da özel bir dağıtılmış CAS bellek uygulamasıdır.
+
+# Bağlantı kurmak ve eşler arasındaki iletişimi kolaylaştırmak için özel bir kütüphane p2p kütüphanesi uygulanmıştır.
+
+# Ağa bir kez gönderilen bir dosya tüm eşlere çoğaltılacaktır.
 
 
 ## Support
